@@ -1,0 +1,5 @@
+table Users{
+    number Id  primary;
+    text Name compressed;
+    decimal hours;
+}
